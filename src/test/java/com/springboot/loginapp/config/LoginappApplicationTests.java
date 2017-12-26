@@ -1,4 +1,4 @@
-package com.springboot.loginapp;
+package com.springboot.loginapp.config;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
